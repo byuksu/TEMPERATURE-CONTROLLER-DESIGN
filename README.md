@@ -29,4 +29,4 @@ The Nokia 5110 LCD screen is configured through GPIO settings, utilizing specifi
 ## Conclusion
 In summary, the integrated temperature controller system using TM4C123GH6PMI combines a precision temperature sensor, a resistive heating pad, and a Peltier device for adaptable and stable temperature regulation. The Nokia 5110 LCD enhances user interaction by providing real-time monitoring, while onboard RGB LEDs visually indicate temperature intervals. Users can set temperature thresholds with a potentiometer, and the microcontroller processes these inputs effectively. This system delivers a user-friendly interface and versatile functionality, ensuring effective temperature control across various applications.
 
-For more details, please refer to the documents [TEMPERATURE CONTROLLER.pdf](TEMPERATURE-CONTROLLER.pdf) and [447_pre_report.pdf](447_pre_reporr.pdf).
+For more details, please refer to the documents [TEMPERATURE CONTROLLER.pdf](TEMPERATURE%20CONTROLLER.pdf) and [447_pre_report.pdf](447_pre_reporr.pdf).
